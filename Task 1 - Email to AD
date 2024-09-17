@@ -1,0 +1,38 @@
+Subject: Data Requirements and Investigation Techniques for PowerCo Churn Analysis
+
+Hi [AD],
+
+Estelle and I have discussed the approach we'll take to investigate PowerCo's customer churn issue, and below are the key points outlining the data we'll need and the techniques we'll use.
+
+Key Reasons for Customer Churn
+
+Price
+Energy Source
+Customer Service
+Contract flexibility
+Reputation
+Location
+
+Data Requirements
+
+Customer Demographics: Age, income level, household size.
+Pricing Data: Historical and current pricing plans offered by PowerCo and competitors
+Customer Interaction Data: Records of customer service interactions, including issue resolution times and satisfactory ratings
+Energy Source Data: Information on the energy types and customer preferences
+Contract Data: Details on Contract terms, renewal rates, and the flexibility of contract options
+Customer Feedback
+
+Analytical Approach
+
+First, we will use visualization techniques like pair plots, heatmaps, and correlation matrices to identify relationships between variables.
+Then, we will see how price affects the churn
+We will use clustering to identify hidden features
+Then we will use classification algorithms for predictive modelling
+
+We believe this approach will allow us to thoroughly investigate the factors driving customer churn and provide actionable insights to PowerCo.
+
+Please let us know if you require any further details or adjustments to this plan.
+
+Best regards,
+
+Rahul
